@@ -1,0 +1,8 @@
+Download and install DVD Flick.
+Go to the folder where it was installed (for example, C:\Program Files\DVD Flick).
+Copy the imgburn folder to a new folder named "bin".
+Go to the bin folder inside the DVD Flick folder.
+Copy dvdauthor.exe to the new "bin" folder.
+Download ffmpeg from the ffmpeg website since DVD Flick's version is more limited.
+Copy ffmpeg.exe to the "bin" folder.
+Update the batch script to point to the bin folder.

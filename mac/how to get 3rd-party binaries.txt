@@ -1,0 +1,7 @@
+Download DVDStyler.
+Right click the DVDStyler app and choose "Show Package Contents".
+Go to the Contents/MacOS folder.
+Copy the files for dvdauthor, mkisofs to a folder named "bin".
+Copy the "libs" folder to the same directory that the "bin" folder is located in.
+Download ffmpeg from the ffmpeg website and copy the binary to the bin folder.
+Update the batch script to point to the bin folder.

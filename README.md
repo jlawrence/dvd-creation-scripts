@@ -6,15 +6,7 @@ Batch scripts that can be used to burn DVDs from video files.
 
 ## Third Party Software ##
 
-This repository contains only the scripts with the commands, not the actual programs themselves. To use the scripts, you will also need the following 3rd-party software:
-
- - ffmpeg
- - dvdauthor
- - mkisofs
- 
-In addition, Windows users will need ImgBurn to burn the ISO file to disk (follow the instructions in the text file to avoid any potentially unwanted software that may come with some ImgBurn downloads).
-
-The folder containing the scripts will also contain a text file with instructions on how to get the 3rd-party programs.
+This repository contains only the scripts with the commands, not the actual programs themselves. The folder for each operating system contains a text file with instructions on how to get the 3rd-party programs.
 
 ## Legal ##
 
